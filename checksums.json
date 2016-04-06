@@ -1,0 +1,14 @@
+{
+  "Gemfile": "8f42666bb231e49295946a4d7ba3896d",
+  "README.md": "e24f7c03028d31232060ce209bf296f7",
+  "Rakefile": "a1e983135f2fd3a0ddf2d5da5df08f89",
+  "files/splunkforwarder": "6bbe5335b037003e2150ecb3b5f2c5e0",
+  "files/splunkforwarder.service": "7c9fa5535f6e620d44e5f43ba270af96",
+  "manifests/init.pp": "3302819af1421462e6a8aa2dd1f5df7f",
+  "manifests/params.pp": "b07f429c50535f6b722560062e02f4db",
+  "metadata.json": "5f964d90e48dcbbc06bba7c92f2f3a3d",
+  "spec/classes/init_spec.rb": "3970543257745536e488c8c573c04727",
+  "spec/spec_helper.rb": "124428c06ac63e4fb259ed4feff2201a",
+  "templates/deploymentclient.conf.erb": "bd4f2833757e0461c6d176afee43b141",
+  "tests/init.pp": "ff3e4a7091193484c3619524e94b8bbf"
+}
